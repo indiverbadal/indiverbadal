@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @indiverbadal
 - 👀 I’m interested in building tools to offload Sysadmin tasks
-- 🌱 I’m currently learning go and few other stuffs
+- 🌱 I like learning stuffs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
